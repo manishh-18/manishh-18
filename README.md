@@ -12,8 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/manish-patsariya-7b6279255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manish-patsariya-7b6279255" height="30" width="40" /></a>
 <a href="https://instagram.com/manisshh_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manisshh_18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish_52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_52" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manishh_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manishh_18" height="30" width="40" /></a>
 </p>
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 <h3 align="left">Languages and Tools:</h3>
@@ -50,7 +48,7 @@
 <br>
 <br>
 
-<img align="right" height="380" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 
 <div align="left">
