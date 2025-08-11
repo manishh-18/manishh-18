@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Final Year CSE Student | Leveling Up with DSA, Dev & Projects</h3>
 
-
+<!--
 - 🌱 I’m currently learning **Backend and DSA**
 
 - 📝 I regularly write articles on [https://tech4coders.blogspot.com/](https://tech4coders.blogspot.com/)
@@ -65,7 +66,7 @@
 
 <br clear="both">
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View 
 
 <div align="">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -77,6 +78,7 @@
 
 ###
 
+-->
 
 
 <!--
