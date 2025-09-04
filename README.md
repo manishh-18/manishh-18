@@ -1,97 +1,62 @@
+# 👋 Hey there, I'm Manish!  
 
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Final Year CSE Student | Leveling Up with DSA, Dev & Projects</h3>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<!--
-- 🌱 I’m currently learning **Backend and DSA**
+Final Year CSE Student | Leveling Up with DSA, Dev & Projects  
+I love building **scalable web apps** and **real-time systems**.  
 
-- 📝 I regularly write articles on [https://tech4coders.blogspot.com/](https://tech4coders.blogspot.com/)
+---
 
+## 🌟 About Me  
+- 🔭 Currently working on: **Stock Price Simulator (React + WebSocket + C++)**  
+- 🌱 Learning: **Machine Learning, Python, and Cloud**  
+- ⚡ Fun fact: I debug with ☕ + 🎶  
+- 🎨 Passionate about: **Beautiful UIs + Smart Backends**  
 
+---
+
+## 🚀 Tech Stack  
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
+
+### 🖥️ Languages & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,html,css,js,react,vite,mysql" height="50" />
 </p>
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
 
-<br>
-<br>
-
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+### 🎨 Styling & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,git,vscode" height="50" />
+</p>
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishh-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=manishh-18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishh-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats & Activity  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishh-18" alt="manishh-18" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishh-18&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishh-18&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
 
+---
 
-###
+## ✨ My passions  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Coding Fun" />
+</p>
 
-###
+---
 
-<br clear="both">
-
-<!-- Snake Game Repo View 
-
-<div align="">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/manishh-18/count.svg?"  />
-
-###
-
--->
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/manish-patsariya-7b6279255/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manishpatsariya14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
-<!--
-**manishh-18/manishh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
