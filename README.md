@@ -32,6 +32,12 @@ I love building **scalable web apps** and **real-time systems**.
 ---
 
 ## 📊 GitHub Stats & Activity  
+<div align="center">
+
+<!-- GitHub Contributions Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishh-18&bg_color=000000&color=ff0080&line=00eaff&point=ffcc00&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishh-18&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
