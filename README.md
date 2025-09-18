@@ -39,12 +39,16 @@ I love building **scalable web apps** and **real-time systems**.
 
 </div>
 
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishh-18&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishh-18&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 ---
+
 
 ## ✨ My passions  
 
@@ -64,4 +68,4 @@ I love building **scalable web apps** and **real-time systems**.
   <a href="mailto:manishpatsariya14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=manishh-18&color=blue)
